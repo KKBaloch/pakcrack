@@ -22,8 +22,8 @@
 
 #### > Run : `python2 crack.py`
 
-#### USERNAME : `cra3k`
-#### PASSWORD : `htrtech`
+#### USERNAME : `kk`
+#### PASSWORD : `baloch`
 
 ## Single Command :
 ```
@@ -36,7 +36,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 <img src=".__src__/pakcrk1.png"/>
 </p>
 
-### << I AM NOT RESPONSIBLE FOR MISUSE >>
+### << Khalid Baloch Rodnani >>
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
@@ -46,8 +46,5 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 #### [+] Easy for Beginners !
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Gitlab](https://img.shields.io/badge/Gitlab-HTR--TECH-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/tahmid.rayat.official)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+[!
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/khalidbaloch)
